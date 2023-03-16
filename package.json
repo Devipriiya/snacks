@@ -5,8 +5,8 @@
   "main": "oilmasala.js",
   "type": "module",
   "scripts": {
-    "test": "node oilmasala.js",
-    "dev": "nodemon oilmasala.js"
+    "test": "node snacks.js",
+    "dev": "nodemon snacks.js"
   },
   "author": "devipriya",
   "license": "ISC",
